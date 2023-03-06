@@ -95,6 +95,7 @@ Does this PR add a new Metadata feature?
      <!-- Add if anything not listed above -->
 
   2. GraphQL API
+  3. 
 
      Schema Generation:
      <!-- Any changes in schema auto-generation logic -->
